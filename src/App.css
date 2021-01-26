@@ -1,0 +1,16 @@
+td {
+  width: 20px;
+  height: 20px;
+}
+
+.squareOn {
+  background-color: green;
+}
+
+.squareOff {
+  background-color: blue;
+}
+
+.squareHighlight {
+  background-color: red;
+}
