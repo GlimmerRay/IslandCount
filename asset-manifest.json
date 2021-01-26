@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/IslandCount/static/css/main.8b7301e9.chunk.css",
+    "main.js": "/IslandCount/static/js/main.1e952de2.chunk.js",
+    "main.js.map": "/IslandCount/static/js/main.1e952de2.chunk.js.map",
+    "runtime-main.js": "/IslandCount/static/js/runtime-main.cbac6ed0.js",
+    "runtime-main.js.map": "/IslandCount/static/js/runtime-main.cbac6ed0.js.map",
+    "static/js/2.57f7476a.chunk.js": "/IslandCount/static/js/2.57f7476a.chunk.js",
+    "static/js/2.57f7476a.chunk.js.map": "/IslandCount/static/js/2.57f7476a.chunk.js.map",
+    "index.html": "/IslandCount/index.html",
+    "static/css/main.8b7301e9.chunk.css.map": "/IslandCount/static/css/main.8b7301e9.chunk.css.map",
+    "static/js/2.57f7476a.chunk.js.LICENSE.txt": "/IslandCount/static/js/2.57f7476a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbac6ed0.js",
+    "static/js/2.57f7476a.chunk.js",
+    "static/css/main.8b7301e9.chunk.css",
+    "static/js/main.1e952de2.chunk.js"
+  ]
+}
